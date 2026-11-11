@@ -10,7 +10,6 @@ class Solution:
         
         for i in range(1,len(nums)):
             num = nums[i]
-
             if num < 0:
                 curr_max,curr_min = curr_min,curr_max
                 
