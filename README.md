@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nihal7778/Leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
+| [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nihal7778/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
