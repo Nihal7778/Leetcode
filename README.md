@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nihal7778/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Nihal7778/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihal7778/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 ## Quicksort
 |  |
 | ------- |
