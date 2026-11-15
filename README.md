@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/Nihal7778/Leetcode/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
 <!---LeetCode Topics End-->
