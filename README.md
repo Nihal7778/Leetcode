@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 ## Hash Table
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0293-flip-game](https://github.com/Nihal7778/Leetcode/tree/master/0293-flip-game) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/Nihal7778/Leetcode/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
 <!---LeetCode Topics End-->
