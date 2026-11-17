@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Nihal7778/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihal7778/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/Nihal7778/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Nihal7778/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nihal7778/Leetcode/tree/master/0739-daily-temperatures) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nihal7778/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Nihal7778/Leetcode/tree/master/0724-find-pivot-index) |
 | [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
 <!---LeetCode Topics End-->
