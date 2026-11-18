@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nihal7778/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Nihal7778/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Nihal7778/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nihal7778/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nihal7778/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Nihal7778/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal7778/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Nihal7778/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nihal7778/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nihal7778/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nihal7778/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
