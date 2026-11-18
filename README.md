@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-elements-in-array-after-removing-and-replacing-elements](https://github.com/Nihal7778/Leetcode/tree/master/2113-elements-in-array-after-removing-and-replacing-elements) |
 | [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nihal7778/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nihal7778/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nihal7778/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nihal7778/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3099-harshad-number](https://github.com/Nihal7778/Leetcode/tree/master/3099-harshad-number) |
 ## Geometry
 |  |
