@@ -34,7 +34,7 @@ class Solution:
         return result
 
 
-        # T.C- O(n**2), S.C - 0(1)
+        # T.C- O(n**2), S.C - 0(n**2)
 
 
 
