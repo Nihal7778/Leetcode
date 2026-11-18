@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nihal7778/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Nihal7778/Leetcode/tree/master/0258-add-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nihal7778/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nihal7778/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nihal7778/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Nihal7778/Leetcode/tree/master/0724-find-pivot-index) |
 | [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nihal7778/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
