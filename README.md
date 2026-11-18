@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nihal7778/Leetcode/tree/master/0009-palindrome-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nihal7778/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
