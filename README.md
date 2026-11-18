@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nihal7778/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nihal7778/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nihal7778/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/Nihal7778/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/Nihal7778/Leetcode/tree/master/3099-harshad-number) |
 ## Geometry
 |  |
