@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nihal7778/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Nihal7778/Leetcode/tree/master/0125-valid-palindrome) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 ## Sorting
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Nihal7778/Leetcode/tree/master/0125-valid-palindrome) |
 | [0293-flip-game](https://github.com/Nihal7778/Leetcode/tree/master/0293-flip-game) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/Nihal7778/Leetcode/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
