@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nihal7778/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
 | [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nihal7778/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nihal7778/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
+| [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nihal7778/Leetcode/tree/master/0125-valid-palindrome) |
 | [0293-flip-game](https://github.com/Nihal7778/Leetcode/tree/master/0293-flip-game) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/Nihal7778/Leetcode/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
 ## Prefix Sum
@@ -198,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nihal7778/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
