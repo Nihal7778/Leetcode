@@ -1,5 +1,6 @@
 class Solution:
     def countGoodSubstrings(self, s: str) -> int:
+        #Optimal
         n = len(s)
 
         count = 0
