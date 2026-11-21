@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1933-check-if-string-is-decomposable-into-value-equal-substrings](https://github.com/Nihal7778/Leetcode/tree/master/1933-check-if-string-is-decomposable-into-value-equal-substrings) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nihal7778/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -204,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihal7778/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nihal7778/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
