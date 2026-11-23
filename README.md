@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nihal7778/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nihal7778/Leetcode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Nihal7778/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nihal7778/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/Nihal7778/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Nihal7778/Leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Nihal7778/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nihal7778/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Nihal7778/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Nihal7778/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Nihal7778/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nihal7778/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0293-flip-game](https://github.com/Nihal7778/Leetcode/tree/master/0293-flip-game) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Nihal7778/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nihal7778/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nihal7778/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
