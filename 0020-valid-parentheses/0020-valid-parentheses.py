@@ -34,7 +34,7 @@ class Solution:
 
         return len(stack)==0
 
-
+        # t.c - O(n), s.c = O(n) and Idea: Push opening brackets, pop matching closing brackets and return True only when the stack is empty at the end.
 
 
 
