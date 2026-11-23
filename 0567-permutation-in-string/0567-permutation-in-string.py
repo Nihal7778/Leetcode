@@ -5,11 +5,11 @@ class Solution:
         n = len(s2)
         hashmap1 = {}
         hashmap2 = {}
+        left = 0
 
 
         if len(s2)<len(s1):
             return False
-        left =0 
 
         for i in range(m):
             if s1[i] in hashmap1:
@@ -19,7 +19,7 @@ class Solution:
                 hashmap1[s1[i]]=1
 
             if s2[i] in hashmap2:
-                    hashmap2[s2[i]]+=1
+                hashmap2[s2[i]]+=1
 
             else:
                 hashmap2[s2[i]]=1
