@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nihal7778/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihal7778/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Nihal7778/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Nihal7778/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nihal7778/Leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -93,7 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nihal7778/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Nihal7778/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Nihal7778/Leetcode/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nihal7778/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nihal7778/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Nihal7778/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nihal7778/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## String
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0293-flip-game](https://github.com/Nihal7778/Leetcode/tree/master/0293-flip-game) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nihal7778/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1119-remove-vowels-from-a-string](https://github.com/Nihal7778/Leetcode/tree/master/1119-remove-vowels-from-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nihal7778/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nihal7778/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
