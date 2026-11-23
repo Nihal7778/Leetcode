@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nihal7778/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nihal7778/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2113-elements-in-array-after-removing-and-replacing-elements](https://github.com/Nihal7778/Leetcode/tree/master/2113-elements-in-array-after-removing-and-replacing-elements) |
 | [2219-maximum-sum-score-of-array](https://github.com/Nihal7778/Leetcode/tree/master/2219-maximum-sum-score-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nihal7778/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nihal7778/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Nihal7778/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nihal7778/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nihal7778/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nihal7778/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nihal7778/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
