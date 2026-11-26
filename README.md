@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
 | [1085-sum-of-digits-in-the-minimum-number](https://github.com/Nihal7778/Leetcode/tree/master/1085-sum-of-digits-in-the-minimum-number) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/Nihal7778/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nihal7778/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nihal7778/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nihal7778/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/Nihal7778/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Nihal7778/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nihal7778/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nihal7778/Leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Nihal7778/Leetcode/tree/master/0621-task-scheduler) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/Nihal7778/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 ## Counting
 |  |
 | ------- |
