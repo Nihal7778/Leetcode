@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-check-if-an-array-is-consecutive](https://github.com/Nihal7778/Leetcode/tree/master/2229-check-if-an-array-is-consecutive) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nihal7778/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Nihal7778/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nihal7778/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Nihal7778/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Nihal7778/Leetcode/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Nihal7778/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nihal7778/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nihal7778/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Nihal7778/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [3099-harshad-number](https://github.com/Nihal7778/Leetcode/tree/master/3099-harshad-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nihal7778/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Nihal7778/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nihal7778/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Nihal7778/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nihal7778/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
