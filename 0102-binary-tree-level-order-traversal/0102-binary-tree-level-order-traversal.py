@@ -6,6 +6,7 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
+        #iterative bfs
         if not root:
             return []
 
