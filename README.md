@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nihal7778/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nihal7778/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -269,8 +271,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nihal7778/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
